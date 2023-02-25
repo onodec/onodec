@@ -1,0 +1,9 @@
+[submodule "sb-proj-sys-ci-test"]
+	path = sb-proj-sys-ci-test
+	url = https://github.com/onodec/sb-proj-sys-ci-test
+[submodule "sb-projection-system"]
+	path = sb-projection-system
+	url = https://github.com/onodec/sb-projection-system
+[submodule "sb-admin-interface"]
+	path = sb-admin-interface
+	url = https://github.com/onodec/sb-admin-interface
